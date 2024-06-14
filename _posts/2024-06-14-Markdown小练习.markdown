@@ -23,4 +23,4 @@ tags:
 [必应主页](bing.com)
 
 这是一张必应壁纸。
-![图片](https://img.peapix.com/dbc45c6900bb4bca99ad059910dde8c6_UHD.jpg"title")
+![图片](https://img.peapix.com/dbc45c6900bb4bca99ad059910dde8c6_UHD.jpg "龙舟池日出，集美区，厦门，中国")
