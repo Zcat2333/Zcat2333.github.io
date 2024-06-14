@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-链接:
+friends:
   [
     { title: "必应主页", href: "http://bing.com" },
     { title: "网易云音乐下载", href: "https://api.toubiec.cn/wyapi.html" },
