@@ -23,4 +23,4 @@ tags:
 [必应主页](bing.com)
 
 这是一张非常帅的关卡的截图。
-![截图](img/IMG_20240608_110000.jpg"title")
+![截图](zcat233.github.io/img/IMG_20240608_110000.jpg"title")
