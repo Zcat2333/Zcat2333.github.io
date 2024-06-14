@@ -23,4 +23,4 @@ tags:
 [必应主页](bing.com)
 
 这是一张非常帅的关卡的截图。
-![截图](https://vip.helloimg.com/i/2024/06/14/666c00e02d904.jpg"title")
+![截图](img/IMG_20240608_110000.jpg"title")
