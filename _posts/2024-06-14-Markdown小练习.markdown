@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Markdown小练习"
-subtitle:   " \"喵！做一个blog实验。\""
+subtitle:   " \"练习一下Markdown的语法。\""
 date:       2024-06-14 16:30:00
 author:     "hyz"
 header-img: "img/IMG_20240608_110000.jpg"
@@ -22,5 +22,5 @@ tags:
 
 [必应主页](bing.com)
 
-这是一张非常帅的关卡的截图。
-![截图](zcat233.github.io/img/IMG_20240608_110000.jpg"title")
+这是一张必应壁纸。
+![图片](https://img.peapix.com/dbc45c6900bb4bca99ad059910dde8c6_UHD.jpg"title")
