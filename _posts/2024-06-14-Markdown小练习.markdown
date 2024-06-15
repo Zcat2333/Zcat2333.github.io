@@ -34,8 +34,6 @@ __________
 这是最近的一张`必应壁纸`。
 ![图片](https://img.peapix.com/dbc45c6900bb4bca99ad059910dde8c6_UHD.jpg "龙舟池日出，集美区，厦门，中国")
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2040870797&auto=0&height=66"></iframe>
-
 <audio src=https://music.163.com/m/song/media/outer/url?id=2040870797.mp3></audio>
 
 __________
