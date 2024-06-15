@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Markdown小练习（？）
->背景使用了[Quantumilk](https://b23.tv/VN1501A)的*改编*作品[The Initial(Edited)](https://b23.tv/LZ7VDnM)。
+>背景使用了[Quantumilk](https://b23.tv/VN1501A)的*改编*作品[The Initial (Edited)](https://b23.tv/LZ7VDnM)。
 
 >虽然这个网站对外开放，但是由于这个网站主要给自己玩，所以问题不大。
 
