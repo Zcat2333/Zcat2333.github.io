@@ -36,7 +36,7 @@ __________
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2040870797&auto=0&height=66"></iframe>
 
-<audio src=https://m801.music.126.net/20240615205001/29dc413bb1fadc775a37130d78e4d802/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36298220951/dd96/3447/97a3/d827334b3aa4164e5eba0c9f50ea236b.flac></audio>
+<audio src=https://music.163.com/m/song/media/outer/url?id=2040870797.mp3></audio>
 
 __________
 
