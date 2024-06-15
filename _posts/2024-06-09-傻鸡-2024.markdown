@@ -4,7 +4,7 @@ title:      "傻狗"
 subtitle:   " \"喵！做一个blog实验。\""
 date:       2024-06-09 13:00:00
 author:     "hyz"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/tears_of_illusion.jpg"
 catalog: true
 tags:
     - Meta
