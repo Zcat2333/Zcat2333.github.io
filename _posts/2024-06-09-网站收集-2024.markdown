@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "傻狗"
-subtitle:   " \"喵！做一个blog实验。\""
+title:      "网站收集"
+subtitle:   " \"收集一些网站。\""
 date:       2024-06-09 13:00:00
 author:     "hyz"
 header-img: "img/tears_of_illusion.jpg"
