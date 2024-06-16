@@ -7,7 +7,7 @@ author:     "hyz"
 header-img: "img/the-initial(edited).jpg"
 catalog: true
 tags:
-    - Meta
+    - Diary
 ---
 
 ## Markdown小练习（？）
