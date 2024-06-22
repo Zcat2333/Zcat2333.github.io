@@ -92,7 +92,8 @@ page-mathjax: false
 friends:
   [
     { title: "必应主页", href: "http://bing.com" },
-    { title: "网易云音乐下载", href: "https://api.toubiec.cn/wyapi.html" },
-    { title: "特殊字体生成", href: "https://beizhedenglong.github.io/weird-fonts/" },
+    { title: "网易云下载", href: "https://api.toubiec.cn/wyapi.html" },
+    { title: "特殊字体", href: "https://beizhedenglong.github.io/weird-fonts/" },
     { title: "B站视频下载", href: "https://snapany.com/zh/bilibili" },
+    { title: "Bing壁纸", href: "https://peapix.com/bing" },
   ]
