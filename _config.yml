@@ -91,7 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "必应主页", href: "http://bing.com" },
     { title: "网易云下载", href: "https://api.toubiec.cn/wyapi.html" },
     { title: "特殊字体", href: "https://beizhedenglong.github.io/weird-fonts/" },
     { title: "B站视频下载", href: "https://snapany.com/zh/bilibili" },
@@ -101,4 +100,5 @@ friends:
     { title: "Button?", href: "https://willyoupressthebutton.com/" },
     { title: "套壳GPT[不推荐]", href: "https://3okynz.aitianhu1.top/" },
     { title: "DLFM-Wiki", href: "https://dlfm-wiki.top/" },
+    { title: "图片放大", href: "https://bigjpg.com/" },
   ]
