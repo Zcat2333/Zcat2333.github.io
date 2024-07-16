@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "每日冷知识"
+subtitle:   " \"力争有趣，保证没用。\""
+date:       2024-07-16 18:30:00
+author:     "Zcat233"
+header-img: "img/sea.jpg"
+catalog: true
+tags:
+    - Diary
+---
+
+> 力争有趣，保证没用。
+> <div style="text-align: right;">——<a href="https://b23.tv/dS9fu1A">尽整没用的</a></div>
+
+---
+
+#### 7.15
+截至2023年12月31日，国铁集团负债总额6.13万亿元。国铁集团负债率回落近一个百分点，由2022年的66.41%回落当前的65.56%。  
+<br>
+> 人们通常只看到中国高铁运营里程的世界第一和高铁的快捷，却对事件的另一面——高铁债务和运营亏损的世界第一，及中国交通运输结构的严重恶化视而不见。  
+> <div style="text-align: right;">——<a href="https://m.jiemian.com/article/2844468.html">谨防高铁灰犀牛</a></div>
+
+
+---
+
+#### 7.16
+正四面体的体积公式：
+$$
+\frac{\sqrt{2}a^3}{12}
+$$
+
+---
+
