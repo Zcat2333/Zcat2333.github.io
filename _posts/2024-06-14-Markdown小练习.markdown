@@ -62,16 +62,15 @@ __________
 
 __________
 
-> <font color = purple>Humanity</font>=  
-> 
-> <font color = purple>H</font>armony  
-> <font color = purple>U</font>nity  
-> <font color = purple>M</font>utuality  
-> <font color = purple>A</font>spiration  
-> <font color = purple>N</font>ature  
-> <font color = purple>I</font>ntelligence  
-> <font color = purple>T</font>enaciousness  
-> <font color = purple>Y</font>earning  
+> <font color="purple">Humanity</font>=
+> <br><font color="purple">H</font><span style="color:grey;">armony</span>
+> <br><font color="purple">U</font><span style="color:grey;">nity</span>
+> <br><font color="purple">M</font><span style="color:grey;">utuality</span>
+> <br><font color="purple">A</font><span style="color:grey;">spiration</span>
+> <br><font color="purple">N</font><span style="color:grey;">ature</span>
+> <br><font color="purple">I</font><span style="color:grey;">ntelligence</span>
+> <br><font color="purple">T</font><span style="color:grey;">enaciousness</span>
+> <br><font color="purple">Y</font><span style="color:grey;">earning</span>
 
 >我看着你的背影，消失在我再也无法企及的边界，我却无能为力。<br>
 >......<br>
