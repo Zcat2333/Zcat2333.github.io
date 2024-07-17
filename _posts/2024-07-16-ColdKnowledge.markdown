@@ -15,6 +15,21 @@ tags:
 
 ---
 
+#### 7.17
+1÷0为什么没有意义，而$\sqrt{-1}$却能强行定义？<br>
+
+<div style="text-align: center;">
+假设1÷0=b<br>
+则0·b=1<br>
+设任意实数a<br>
+b×(0·a)=1×a，即b×0=a<br>
+a=1, 即所有数字都为1
+</div>
+
+强行容纳1÷0会使原有数学体系崩溃，但负数和虚数只是让曾经的数学系统和运算成为了特例（比如实数是复数的特例）。
+
+---
+
 #### 7.16
 等边三角形的`面积公式`：
 $$ \frac{\sqrt{3}}{4}a^2 $$
@@ -32,27 +47,3 @@ $$
 > <div style="text-align: right;">——<a href="https://m.jiemian.com/article/2844468.html">谨防高铁灰犀牛</a></div>
 
 ---
-
-#### 7.16[Experimential]
-
-等边三角形的面积公式：
-<div>
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mfrac>
-    <mrow><msqrt><mn>3</mn></msqrt></mrow>
-    <mn>4</mn>
-  </mfrac>
-  <msup><mi>a</mi><mn>2</mn></msup>
-</math>
-</div>
-
-正四面体的体积公式：
-<div>
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mfrac>
-    <mrow><msqrt><mn>2</mn></msqrt></mrow>
-    <mn>12</mn>
-  </mfrac>
-  <msup><mi>a</mi><mn>3</mn></msup>
-</math>
-</div>
