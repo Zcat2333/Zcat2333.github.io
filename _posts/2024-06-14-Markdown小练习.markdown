@@ -36,18 +36,42 @@ __________
 
 <audio src="https://music.163.com/song/media/outer/url?id=2040870797.mp3"></audio>
 
+#### MathML(1998)测试
+
+等边三角形的面积公式：
+<div>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow><msqrt><mn>3</mn></msqrt></mrow>
+    <mn>4</mn>
+  </mfrac>
+  <msup><mi>a</mi><mn>2</mn></msup>
+</math>
+</div>
+
+正四面体的体积公式：
+<div>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow><msqrt><mn>2</mn></msqrt></mrow>
+    <mn>12</mn>
+  </mfrac>
+  <msup><mi>a</mi><mn>3</mn></msup>
+</math>
+</div>
+
 __________
 
 > <font color = purple>Humanity</font>=  
 > 
-> <font color = purple>H</font> armony  
-> <font color = purple>U</font> nity  
-> <font color = purple>M</font> utuality  
-> <font color = purple>A</font> spiration  
-> <font color = purple>N</font> ature  
-> <font color = purple>I</font> ntelligence  
-> <font color = purple>T</font> enaciousness  
-> <font color = purple>Y</font> earning  
+> <font color = purple>H</font>armony  
+> <font color = purple>U</font>nity  
+> <font color = purple>M</font>utuality  
+> <font color = purple>A</font>spiration  
+> <font color = purple>N</font>ature  
+> <font color = purple>I</font>ntelligence  
+> <font color = purple>T</font>enaciousness  
+> <font color = purple>Y</font>earning  
 
 >我看着你的背影，消失在我再也无法企及的边界，我却无能为力。<br>
 >......<br>
