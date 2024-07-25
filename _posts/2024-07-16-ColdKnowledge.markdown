@@ -1,17 +1,56 @@
 ---
-layout:     post
-title:      "每日冷知识"
-subtitle:   " \"力争有趣，保证没用。\""
-date:       2024-07-16 18:30:00
-author:     "Zcat233"
-header-img: "img/sea.jpg"
+layout: post
+title: 每日冷知识
+subtitle: ' "力争有趣，保证没用。"'
+date: 2024-07-16 18:30:00
+author: Zcat233
+header-img: img/sea.jpg
 catalog: true
 tags:
-    - Diary
+  - Diary
 ---
 
 > 力争有趣，保证没用。
 > <div style="text-align: right;">——<a href="https://space.bilibili.com/7428971">BiliBili尽整没用的</a></div>
+
+---
+
+#### 7.24
+人对糖会上瘾，正如毒品。
+
+---
+
+#### 7.23
+
+
+---
+
+#### 7.22
+
+
+---
+
+#### 7.21
+Minecraft主世界面积为3.6×10<sup>15</sup>m<sup>2</sup>，  
+相当于7.06个地球表面积。
+
+---
+
+#### 7.20
+所有自然数的和是$-\frac{1}{12}$.
+
+---
+
+#### 7.19
+令a<sub>n</sub>为斐波那契数列的第n项，则
+
+$$\frac{1}{89} = \sum_{n=1}^{\infty} \frac{a_n}{10^n}
+$$
+
+---
+
+#### 7.18
+dogged的中文解释是“顽强”。
 
 ---
 
