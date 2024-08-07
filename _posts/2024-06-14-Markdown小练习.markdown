@@ -1,31 +1,26 @@
----
-layout:     post
-title:      "Markdown小练习"
-subtitle:   " \"练习一下Markdown的语法。\""
-date:       2024-06-14 16:30:00
-author:     "hyz"
-header-img: "img/the-initial(edited).jpg"
-catalog: true
-tags:
-    - Diary
----
 
 ## Markdown小练习（？）
->背景使用了[Quantumilk](https://b23.tv/VN1501A)的*改编*作品[The Initial (Edited)](https://b23.tv/LZ7VDnM)。
+>背景使用了[Quantumilk](https://b23.tv/VN1501A)的改编作品[The Initial (Edited)](https://b23.tv/LZ7VDnM)。
 
 >虽然这个网站对外开放，但是由于这个网站主要给自己玩，所以问题不大。
 
 *我们的* **期末考试** *终于* ***考完*** 啦！<br>
 我已经吃饱撑着，开始写`Markdown`了...
 
-__________
+---
 
 #### 表格语法测试
 
-| **检验成分** 	|   葡萄糖   	| 蛋白质 	|  脂肪 	|    不饱和烃   	|  三价铁  	|          二价铁         	|
-|:------------:	|:----------:	|:------:	|:-----:	|:-------------:	|:--------:	|:-----------------------:	|
-| **试剂**     	|  班氏试剂  	| 双缩脲 	| 苏丹Ⅳ 	| 酸性KMnO<sub>4</sub>溶液 	| KSCN溶液 	| 铁氰化钾K<sub>3</sub>[Fe(CN)<sub>6</sub>]溶液 	|
-| **现象**     	| 黄红色沉淀 	| 紫色   	| 红色  	|      褪色     	|  血红色  	|         蓝色沉淀        	|
+| **检验成分** |  葡萄糖  | 蛋白质 | 脂肪  |         不饱和烃         |  三价铁   |                   二价铁                   |
+| :------: | :---: | :-: | :-: | :------------------: | :----: | :-------------------------------------: |
+|  **试剂**  | 班氏试剂  | 双缩脲 | 苏丹Ⅳ | 酸性KMnO<sub>4</sub>溶液 | KSCN溶液 | 铁氰化钾K<sub>3</sub>[Fe(CN)<sub>6</sub>]溶液 |
+|  **现象**  | 黄红色沉淀 | 紫色  | 红色  |          褪色          |  血红色   |                  蓝色沉淀                   |
+
+| **名称** | **化学式** |
+| :----: | :-----: |
+|   羟基   |   -OH   |
+|   羧基   |  -COOH  |
+|   醛基   |  -CHO   |
 
 #### 链接语法测试
 
@@ -60,7 +55,7 @@ __________
 </math>
 </div>
 
-__________
+---
 
 > <font color="purple">Humanity</font>=
 > <br><font color="purple">H</font><span style="color:grey;">armony</span>
