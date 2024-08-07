@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "Markdown小练习"
+subtitle:   " \"练习一下Markdown的语法。\""
+date:       2024-06-14 16:30:00
+author:     "hyz"
+header-img: "img/the-initial(edited).jpg"
+catalog: true
+tags:
+    - Diary
+---
 
 ## Markdown小练习（？）
 >背景使用了[Quantumilk](https://b23.tv/VN1501A)的改编作品[The Initial (Edited)](https://b23.tv/LZ7VDnM)。
@@ -7,7 +18,7 @@
 *我们的* **期末考试** *终于* ***考完*** 啦！<br>
 我已经吃饱撑着，开始写`Markdown`了...
 
----
+__________
 
 #### 表格语法测试
 
@@ -21,7 +32,6 @@
 |   羟基   |   -OH   |
 |   羧基   |  -COOH  |
 |   醛基   |  -CHO   |
-
 #### 链接语法测试
 
 [必应主页](bing.com)<br>
@@ -55,7 +65,7 @@
 </math>
 </div>
 
----
+__________
 
 > <font color="purple">Humanity</font>=
 > <br><font color="purple">H</font><span style="color:grey;">armony</span>
