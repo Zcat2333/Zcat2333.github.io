@@ -1,0 +1,33 @@
+---
+layout: post
+title: BFLS
+subtitle: ' '
+date: 2024-10-19 16:30:00
+author: Zcat233
+header-img: img/the-initial(edited).jpg
+catalog: true
+tags:
+---
+
+#### 布景设计
+
+1.在下图所示的场景中，哪一项最能说明此处场景设计的不合理之处？并在下面说说你的见解。（来源：[GoldenHour](https://www.bilibili.com/video/BV1Pr421h7Tx)）
+![[img/GoldenHour.jpg]]
+- [ ] A. 路线设计直接使用铺路机，过于生硬
+- [ ] B. 布景直接使用方块，只是简单地填满了画面，缺乏真实感
+- [ ] C. 场景缺乏引导性
+- [ ] D. 场景整体色调单一，布景缺乏内涵，对称性，趣味性同样贫乏，不能激发玩家游玩兴趣
+
+```
+在此作答
+
+
+```
+
+> 此类题可以不设置正确答案，甚至可以看似是做选择加上理由，审核时只看简答内容。
+> 但是，对于这题：  
+> A对应了可能出现的误解，即铺路机低人一等。  
+> B的“缺乏真实感”对应了圈内一些对<span style="color:orange;">烟花</span>这类写真风格的过度吹捧和对<span style="color:brown;">木星</span>这样相对抽象的风格的摒弃。选B的建议别放进来。  
+> 选C的是概念不清，直接淘汰。  
+> D是凑字数的，不用管。  
+> <span style="color:purple;">同时，这类题也可以提醒部分人，评审团也面临着诸多评分上的困难，很多关卡的评分没法满足每一个喜欢较劲的人。</span>
