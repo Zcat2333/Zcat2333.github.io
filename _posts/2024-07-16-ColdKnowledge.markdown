@@ -72,7 +72,6 @@ Minecraft主世界面积为3.6×10<sup>15</sup>m<sup>2</sup>，
 
 #### 7.19
 令a<sub>n</sub>为斐波那契数列的第n项，则
-
 \$$
 \frac{1}{89} = \sum_{n=1}^{\infty} \frac{a_n}{10^n}
 \$$
