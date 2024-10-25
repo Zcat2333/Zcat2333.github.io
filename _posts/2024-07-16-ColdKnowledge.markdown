@@ -6,6 +6,7 @@ date: 2024-07-16 18:30:00
 author: Zcat233
 header-img: img/sea.jpg
 catalog: true
+mathjax: true
 tags:
   - Diary
 ---
