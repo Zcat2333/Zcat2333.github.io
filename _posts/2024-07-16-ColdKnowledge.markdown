@@ -15,6 +15,12 @@ tags: []
 
 ---
 
+#### 10.26
+Our sense of who we feel we are is often highly distorted in a negative direction by our past, which can make us far more jittery about public opinion than is sound.<br>
+Our sense of self is the result of how other people viewed us in childhood, especially your parents or caregivers. <br>
+Some of us wander the world with an acute sense of shame and self-distrust that we absolutely don't deserve, and we project a lot of paranoia and fear onto other people primarily because we've been treated with disdain in our early years.
+
+---
 #### 10.25
 10月3日，英国政府宣布，将查戈斯群岛的所有权移交给毛里求斯。按照惯例，英属印度洋领地的顶级域名`.io`将被删除。<br>
 喵的，不许删掉.io！！！！！！！
