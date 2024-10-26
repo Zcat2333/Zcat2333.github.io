@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 三角公式
+title: "三角公式"
 subtitle: 
 date: 2024-10-26 20:30:00
 author: Zcat233
