@@ -12,7 +12,7 @@ tags:
 #### 布景设计
 
 1.在下图所示的场景中，哪一项最能说明此处场景设计的不合理之处？并在下面说说你的见解。（来源：[GoldenHour](https://www.bilibili.com/video/BV1Pr421h7Tx)）
-![](img/GoldenHour.jpg)
+![喵](img/GoldenHour.jpg"喵")
 - [ ] A. 路线设计直接使用铺路机，过于生硬
 - [ ] B. 布景直接使用方块，只是简单地填满了画面，缺乏真实感
 - [ ] C. 场景缺乏引导性
