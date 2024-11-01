@@ -7,7 +7,6 @@ author:     "hyz"
 header-img: "img/the-initial(edited).jpg"
 catalog: true
 tags:
-    - Diary
 ---
 
 ## Markdown小练习（？）
@@ -21,15 +20,15 @@ tags:
 ---
 #### 记事本
 <span style="color:red;">甲</span> 
-<span style="color:cyan;">乙</span> 
+<span style="color:orange;">乙</span> 
 <span style="color:brown;">丙</span> 
-<span style="color:pink;">丁</span> 
-<span style="color:orange;">戊</span> 
-<span style="color:khaki;">己</span> 
-<span style="color:green;">庚</span> 
+<span style="color:gold;">丁</span> 
+<span style="color:MediumSeaGreen;">戊</span> 
+<span style="color:LightSlateBlue;">己</span> 
+<span style="color:SlateBlue;">庚</span> 
 <span style="color:purple;">新</span> 
-<span style="color:blue;">壬</span> 
-<span style="color:yellow;">癸</span> 
+<span style="color:violet;">壬</span> 
+<span style="color:violetRed;">癸</span> 
 
 ---
 
