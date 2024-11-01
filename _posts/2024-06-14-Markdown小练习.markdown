@@ -18,7 +18,20 @@ tags:
 *我们的* **期末考试** *终于* ***考完*** 啦！<br>
 我已经吃饱撑着，开始写`Markdown`了...
 
-__________
+---
+#### 记事本
+<span style="color:red;">甲</span> 
+<span style="color:cyan;">乙</span> 
+<span style="color:brown;">丙</span> 
+<span style="color:pink;">丁</span> 
+<span style="color:orange;">戊</span> 
+<span style="color:khaki;">己</span> 
+<span style="color:green;">庚</span> 
+<span style="color:purple;">新</span> 
+<span style="color:blue;">壬</span> 
+<span style="color:yellow;">癸</span> 
+
+---
 
 #### 表格语法测试
 
@@ -66,7 +79,7 @@ __________
 </math>
 </div>
 
-__________
+---
 
 > <font color="purple">Humanity</font>=
 > <br><font color="purple">H</font><span style="color:grey;">armony</span>
