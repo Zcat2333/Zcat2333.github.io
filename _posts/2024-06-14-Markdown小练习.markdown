@@ -21,14 +21,14 @@ tags:
 #### 记事本
 <span style="color:red;">甲</span> 
 <span style="color:orange;">乙</span> 
-<span style="color:brown;">丙</span> 
+<span style="color:coral;">丙</span> 
 <span style="color:gold;">丁</span> 
 <span style="color:MediumSeaGreen;">戊</span> 
 <span style="color:LightSlateBlue;">己</span> 
 <span style="color:SlateBlue;">庚</span> 
 <span style="color:purple;">新</span> 
 <span style="color:violet;">壬</span> 
-<span style="color:violetRed;">癸</span> 
+<span style="color:VioletRed;">癸</span> 
 
 ---
 
