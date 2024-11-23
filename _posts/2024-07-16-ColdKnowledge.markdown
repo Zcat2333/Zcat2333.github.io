@@ -15,6 +15,12 @@ tags: []
 
 ---
 
+#### 11.23
+Everything has its wonders, even darkness and silence
+<div style="text-align: right;">——HELEN KELLER</div>
+
+---
+
 #### 10.26
 Our sense of who we feel we are is often highly distorted in a negative direction by our past, which can make us far more jittery about public opinion than is sound.<br>
 Our sense of self is the result of how other people viewed us in childhood, especially your parents or caregivers. <br>
