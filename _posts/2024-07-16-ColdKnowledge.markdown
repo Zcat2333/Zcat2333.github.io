@@ -16,7 +16,8 @@ tags: []
 ---
 
 #### 11.23
-Everything has its wonders, even darkness and silence
+Everything has its wonders, even darkness and silence.
+万物皆奇迹，乃至黑暗与寂静。
 <div style="text-align: right;">——HELEN KELLER</div>
 
 ---
