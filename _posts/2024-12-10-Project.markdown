@@ -11,8 +11,6 @@ tags:
 
 [官网](https://mc.dfrobot.com.cn)
 
----
-
 ## 指纹扫描：
 [指纹](https://arduino.nxez.com/2018/09/24/arduino-optical-fingerprint-identification-module-fpm10a-user-guide.html)<br>
 材料：
