@@ -10,7 +10,21 @@ tags:
     - Meta
 ---
 
-[指纹](https://arduino.nxez.com/2018/09/24/arduino-optical-fingerprint-identification-module-fpm10a-user-guide.html)<br>
 [官网](https://mc.dfrobot.com.cn)
-指纹材料：
+
+---
+## 指纹扫描：
+[指纹](https://arduino.nxez.com/2018/09/24/arduino-optical-fingerprint-identification-module-fpm10a-user-guide.html)<br>
+
+材料：
+
 ![](/img/ingredients.png)
+
+---
+
+## 台灯：
+[台灯教程](https://mc.dfrobot.com.cn/thread-13580-1-1.html)<br>
+
+材料：
+
+![](/img/inglight.png)
