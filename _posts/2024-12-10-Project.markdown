@@ -31,4 +31,5 @@ tags:
 ## 密码锁：
 [密码锁教程](https://www.yiboard.com/thread-1471-1-1.html)<br>
 材料：
+
 ![](/img/ingpassword.png)
