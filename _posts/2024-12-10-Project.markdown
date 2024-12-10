@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2024-12-10 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -12,3 +12,5 @@ tags:
 
 [指纹](https://arduino.nxez.com/2018/09/24/arduino-optical-fingerprint-identification-module-fpm10a-user-guide.html)<br>
 [官网](https://mc.dfrobot.com.cn)
+指纹材料：
+![](/img/ingredients.png)
