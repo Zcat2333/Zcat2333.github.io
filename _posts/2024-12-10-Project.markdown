@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "arduino课题"
+subtitle:   ""
 date:       2024-12-10 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+author:     "hyz"
+header-img: "img/blueberry.jpg"
 catalog: true
 tags:
     - Meta
@@ -15,7 +15,6 @@ tags:
 ---
 ## 指纹扫描：
 [指纹](https://arduino.nxez.com/2018/09/24/arduino-optical-fingerprint-identification-module-fpm10a-user-guide.html)<br>
-
 材料：
 
 ![](/img/ingredients.png)
@@ -24,7 +23,13 @@ tags:
 
 ## 台灯：
 [台灯教程](https://mc.dfrobot.com.cn/thread-13580-1-1.html)<br>
-
 材料：
 
 ![](/img/inglight.png)
+
+---
+
+## 密码锁：
+[密码锁教程](https://www.yiboard.com/thread-1471-1-1.html)<br>
+材料：
+![](/img/ingpassword.png)
