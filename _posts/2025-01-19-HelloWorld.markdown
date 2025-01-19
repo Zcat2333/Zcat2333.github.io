@@ -4,7 +4,7 @@ title: HelloWorld
 subtitle: 
 date: 2025-01-19 22:00:00
 author: hyz
-header-img: img/northvillage.jpg
+header-img: img/NorthLand.jpeg
 catalog: true
 mathjax: false
 tags:
