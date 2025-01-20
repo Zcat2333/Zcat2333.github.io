@@ -4,7 +4,7 @@ title: 网文
 subtitle: 
 date: 2024-11-30 21:00:00
 author: Zcat233
-header-img: img/mountain.jpg
+header-img: img/sand.jpg
 catalog: true
 mathjax: false
 tags:
