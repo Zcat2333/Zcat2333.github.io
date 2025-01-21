@@ -38,7 +38,7 @@ tags:
 
 ---
 
-<font color = purple>我看着你的背影，消失在我再也无法企及的边界，我却无能为力。</font>
-<br><font color = purple>......</font>
+<span style="color:purple;">我看着你的背影，消失在我再也无法企及的边界，我却无能为力。</span>
+<br><span style="color:purple;">......</span>
 <br><font color = purple>我，想，握紧，你的手。任由，烈火，将我，<font color="red">焚灭殆尽</font><span style="color:grey;">。</span></font>
 
