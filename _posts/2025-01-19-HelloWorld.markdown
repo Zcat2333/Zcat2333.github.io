@@ -26,8 +26,8 @@ tags:
 
 ---
 
-<font color="purple">Humanity</font>=
-<font color="purple">H</font><span style="color:grey;">armony</span>
+<span style="color:purple;">Humanity</span>=
+<br><font color="purple">H</font><span style="color:grey;">armony</span>
 <br><font color="purple">U</font><span style="color:grey;">nity</span>
 <br><font color="purple">M</font><span style="color:grey;">utuality</span>
 <br><font color="purple">A</font><span style="color:grey;">spiration</span>
@@ -39,6 +39,6 @@ tags:
 ---
 
 <font color = purple>我看着你的背影，消失在我再也无法企及的边界，我却无能为力。</font>
-<font color = purple>......</font>
-<font color = purple>我，想，握紧，你的手。任由，烈火，将我，<font color="red">焚灭殆尽</font><span style="color:grey;">。</span></font>
+<br><font color = purple>......</font>
+<br><font color = purple>我，想，握紧，你的手。任由，烈火，将我，<font color="red">焚灭殆尽</font><span style="color:grey;">。</span></font>
 
