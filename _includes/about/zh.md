@@ -1,10 +1,10 @@
 这里是Zcat233的一个实验性网站！
 
-> 为啥叫实验性呢？
-> 因为
-> 如果这个网站坏掉了
-> 我也不会去管
-> 为什么不管？
+> 为啥叫实验性呢？<br>
+> 因为<br>
+> 如果这个网站坏掉了<br>
+> 我也不会去管<br>
+> 为什么不管？<br>
 > 因为我不会修。
 
 ### 用途
@@ -13,5 +13,6 @@
 > 就这破水平还敢炫耀啊？诶，你别说，还真敢。
 
 ### 原作者
-这个博客的原作者是Start Bootstrap的[Clean Blog](https://startbootstrap.com/theme/clean-blog)与[黄玄](https://github.com/Huxpro)的fork（[huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)）。感谢这几位大佬awa。<br>
+这个博客的原作者是Start Bootstrap的[Clean Blog](https://startbootstrap.com/theme/clean-blog)与[黄玄](https://github.com/Huxpro)的博客（[https://huangxuan.me/](https://huangxuan.me/)）。<br>
+感谢这几位大佬awa。<br>
 我保存了来自Start Bootstrap和黄玄两位作者的文章各一篇。欢迎翻译[Start Bootstrap的文章](https://zcat233.github.io/2020/01/31/Exploration/)。 (?)
