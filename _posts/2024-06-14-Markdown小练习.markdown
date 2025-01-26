@@ -87,8 +87,8 @@ tags:
 </audio>
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/Zcat233/Zcat233.github.io/main/assets/audio/达拉崩吧.mp3" type="audio/mpeg">
-  您的浏览器不支持 audio 元素。
+    <source src="https://zcat233.github.io/img/达拉崩吧.mp3" type="audio/mpeg">
+    您的浏览器不支持 audio 元素。
 </audio>
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1z4411Y7tX" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
