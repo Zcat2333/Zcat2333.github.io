@@ -35,6 +35,6 @@
 黄玄的博客 | Hux Blog: [https://huangxuan.me/](https://huangxuan.me/)。<br>
 仓库: [https://github.com/Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)<br>
 Clean Blog: [https://startbootstrap.com/previews/clean-blog](https://startbootstrap.com/previews/clean-blog)<br>
-仓库: [https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)
+仓库: [https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)<br>
 感谢这几位大佬awa。<br>
 我保存了来自Start Bootstrap和黄玄两位作者的文章各一篇。欢迎翻译[Start Bootstrap的文章](https://zcat233.github.io/2020/01/31/Exploration/)。 (?)
