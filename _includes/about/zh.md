@@ -15,7 +15,7 @@
 ### 原作者
 这个博客的原作者是Start Bootstrap的[Clean Blog](https://startbootstrap.com/theme/clean-blog)与[黄玄](https://github.com/Huxpro)的博客。<br>
 
->黄玄的博客 | Hux Blog: [https://huangxuan.me/](https://huangxuan.me/)。<br>
+>黄玄的博客 | Hux Blog: [https://huangxuan.me/](https://huangxuan.me/)<br>
 >仓库: [https://github.com/Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)<br>
 >Clean Blog: [https://startbootstrap.com/previews/clean-blog](https://startbootstrap.com/previews/clean-blog)<br>
 >仓库: [https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)<br>
